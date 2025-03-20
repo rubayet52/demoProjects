@@ -5,6 +5,7 @@
     <classes>
       <class name="com.AutomationTalks.DemoProjects">
         <methods>
+          <include name="test1"/>
           <include name="test2"/>
           <include name="quit"/>
           <include name="launchDriver"/>

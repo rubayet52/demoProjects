@@ -23,6 +23,7 @@ public class DemoProjects {
 	public void test1() {
 		driver.navigate().to("http://google.com");
 		System.out.println("Test 1 : " + driver.getTitle());
+	
 	}
 
 	@Test
